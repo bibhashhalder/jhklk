@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: beige;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+.text{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}
+.left{
+    background-color: rgb(144, 145, 117);
+    padding: 10px;
+    width: 20%;
+    height: 100vh;
+}
+.img{
+    width: 90%;
+    height: 40%;
+    
+    margin-left: auto;
+    border-radius: 50%;
+    background-color: rgb(12, 71, 160);
+
+}
