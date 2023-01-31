@@ -2,11 +2,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 .header{
     background-color: beige;
     padding-top: 5px;
     padding-bottom: 3px;
+}
+.span{
+    font-size: 50px;
+    color: rgb(238, 145, 24);
+    
 }
 .text{
     text-align: center;
@@ -28,4 +34,13 @@
     border-radius: 50%;
     background-color: rgb(12, 71, 160);
 
+}
+.icon{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.font_icon{
+    font-size: 25px;
+    color: white;
 }
