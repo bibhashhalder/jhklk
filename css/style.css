@@ -20,6 +20,9 @@
     margin-left: auto;
     margin-top: 10px;
 }
+.section{
+    display: flex;
+}
 .left{
     background-color: rgb(144, 145, 117);
     padding: 10px;
@@ -47,4 +50,30 @@
 .email{
     font-size: 14px;
     font-weight: 700;
+}
+.right{
+    background-color: #ccc4bbbb;
+    width: 80%;
+    height: 100vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+}
+.phone{
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 0px;
+}
+#table{
+    border-collapse: collapse;
+}
+  tr  th{
+    border: 1px solid;
+    padding: 4px;
+    
+}
+  tr  td{
+    border: 1px solid;
+    padding: 4px;
+    
 }
